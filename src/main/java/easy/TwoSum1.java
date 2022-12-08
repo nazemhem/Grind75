@@ -4,8 +4,12 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-
+/*
+Runtime 11 ms Beats 56.36%
+Memory 42.9 MB Beats 81.82%
+ */
 public class TwoSum1 {
+
     public static void main(String[] args) {
         int[] nums = new int[]{2, 7, 11, 15};
         int target = 9;

@@ -2,7 +2,10 @@ package easy;
 
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
-
+/*
+Runtime 3 ms Beats 77.8%
+Memory 41.9 MB Beats 57.28%
+ */
 public class ValidParentheses20 {
 
     public static void main(String[] args) {
