@@ -8,6 +8,12 @@ import java.util.stream.IntStream;
 Runtime 11 ms Beats 56.36%
 Memory 42.9 MB Beats 81.82%
  */
+
+/**
+ * Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+ * You may assume that each input would have exactly one solution, and you may not use the same element twice.
+ * You can return the answer in any order.
+ */
 public class TwoSum1 {
 
     public static void main(String[] args) {
